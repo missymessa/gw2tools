@@ -7,6 +7,6 @@ using System.Threading.Tasks;
 
 namespace Gw2.Api.Sdk.Providers;
 
-public class PvpProvider : IPvpService
+public class InventoryProvider : IInventoryService
 {
 }

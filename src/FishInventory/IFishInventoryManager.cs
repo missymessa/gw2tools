@@ -4,8 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Gw2.Api.Sdk.Services;
+namespace FishInventory;
 
-interface IPvpService
+interface IFishInventoryManager
 {
 }

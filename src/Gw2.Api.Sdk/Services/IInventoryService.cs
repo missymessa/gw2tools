@@ -6,6 +6,6 @@ using System.Threading.Tasks;
 
 namespace Gw2.Api.Sdk.Services;
 
-interface IPvpService
+interface IInventoryService
 {
 }
